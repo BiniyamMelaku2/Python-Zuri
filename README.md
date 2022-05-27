@@ -1,2 +1,3 @@
-# Python-Zuri
-Python simple projects for beginners
+# Zuri
+
+- Python simple projects for beginners
