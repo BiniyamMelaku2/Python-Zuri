@@ -1,6 +1,6 @@
 # Zuri
-- - - - - -
 - Python simple projects for beginners
+- - - - - -
 
 ## Finding-Anagrams
 ### Resources
