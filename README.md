@@ -19,7 +19,7 @@
 - [Python Classes and Objects - GeeksforGeeks](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 
-##
+## Django Getting Started
 ### Resources:
 
 - [Get Started With Django Part 1](https://realpython.com/get-started-with-django-1/)
