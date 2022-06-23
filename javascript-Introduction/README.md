@@ -2,9 +2,7 @@
 
 
 
-- [calculator](./calculator.js)
-
- The calculator should be able to perform basic operations like Addition, Subtraction, Multiplication, & Division
+- [calculator](./calculator.js): a javascript code able to perform basic operations like Addition, Subtraction, Multiplication, & Division
 
 - [mydetails](./mydetails.js): a javascript code that prints out your name, height, and country on the screen
 
