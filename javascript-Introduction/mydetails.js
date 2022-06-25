@@ -7,3 +7,4 @@ let mydetails = function ()
 		   "Country: Ethiopia\n";
 };
 console.log(mydetails());
+alert(mydetails());
