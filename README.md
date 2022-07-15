@@ -7,42 +7,42 @@
 - [String Manipulation in Python](https://www.pythonforbeginners.com/basics/string-manipulation-in-python)
 - [Python Lists and List Manipulation](https://towardsdatascience.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
 
-## 2. Reading-Text-Files
+## 2. [Reading-Text-Files](./Reading-Text-Files)
 ### Resources:
 
 - [How to Read a Text file In Python Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/)
 - [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
-## 3. Classes-and-Objects
+## 3. [Classes-and-Objects](./Classes-and-Objects)
 ### Resources:
 
 - [Python Classes and Objects - GeeksforGeeks](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 
-## 4. Django Getting Started
+## 4. [Django Getting Started](./Biniyam_Melaku)
 ### Resources:
 
 - [Get Started With Django Part 1](https://realpython.com/get-started-with-django-1/)
 
-## 5. javascript-Introduction
+## 5. [javascript-Introduction](./javascript-Introduction)
 ### Resources:
 
 
-## 6. chessboard-using-html-and-css
+## 6. [chessboard-using-html-and-css](./chessboard-using-html-and-css)
 ### Resources:
 
 
-## 7. html-tables-and-lists
+## 7. [html-tables-and-lists](./html-tables-and-lists)
 ### Resources:
 
 
-## 8. portfolio
+## 8. [portfolio](./html-tables-and-lists)
 ### Resources:
 
 
-## 9. quiz-game
+## 9. [quiz-game](./quiz-game)
 ### Resources:
 
 
-## 10. tribute-page
+## 10. [tribute-page](./tribute-page)
 ### Resources:
