@@ -2,7 +2,7 @@
 
 A Code created on replit.com/@BiniyamMelaku. 
 
-Original URL: [https://portfolio.biniyammelaku.repl.co](https://portfolio.biniyammelaku.repl.co).
+Original URL: [https://replit.com/@BiniyamMelaku/portfolio#index.html](https://replit.com/@BiniyamMelaku/portfolio#index.html).
 
 
 **Instructions:** 
@@ -55,4 +55,4 @@ Confirm password
 It should have a submit button with the label `"Sign In."`
 
 
-#### Live site : [Portfolio](https://replit.com/@BiniyamMelaku/portfolio#index.html)
+#### Live site : [Portfolio](https://portfolio.biniyammelaku.repl.co)
