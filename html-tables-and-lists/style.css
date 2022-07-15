@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 20px 20px;
+  font-family: lato;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.table {
+  width: 100%;
+  border-spacing: 5px;
+}
+th, td {
+    padding: 5px;
+    border: 1px solid #ddd;
+    text-align: center;
+    font-size: 16px;
+  }
+
+  th {
+    background-color: darkblue;
+    color: #ffffff;
+  }
+
+  tbody {
+    tr:nth-child(even) {
+      background-color: #f5f5f5;
+    }
+ }
