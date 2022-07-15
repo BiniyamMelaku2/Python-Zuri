@@ -36,7 +36,7 @@
 ### Resources:
 
 
-## 8. [portfolio](./html-tables-and-lists)
+## 8. [portfolio](./portfolio)
 ### Resources:
 
 
