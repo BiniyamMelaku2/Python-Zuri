@@ -2,7 +2,7 @@
 - Projects using Python, html, css and javascript for beginners
 - - - - - -
 
-## 1. [Finding-Anagrams\(./Finding-Anagrams)
+## 1. [Finding-Anagrams]\(./Finding-Anagrams)
 ### Resources
 - [String Manipulation in Python](https://www.pythonforbeginners.com/basics/string-manipulation-in-python)
 - [Python Lists and List Manipulation](https://towardsdatascience.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
