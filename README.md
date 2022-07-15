@@ -1,5 +1,5 @@
 # Zuri
-- Python simple projects for beginners
+- Projects using Python, html, css and javascript for beginners
 - - - - - -
 
 ## Finding-Anagrams
@@ -23,3 +23,26 @@
 ### Resources:
 
 - [Get Started With Django Part 1](https://realpython.com/get-started-with-django-1/)
+
+## javascript-Introduction
+### Resources:
+
+
+## chessboard-using-html-and-css
+### Resources:
+
+
+## html-tables-and-lists
+### Resources:
+
+
+## portfolio
+### Resources:
+
+
+## quiz-game
+### Resources:
+
+
+## tribute-page
+### Resources:
