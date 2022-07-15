@@ -2,47 +2,47 @@
 - Projects using Python, html, css and javascript for beginners
 - - - - - -
 
-## Finding-Anagrams
+## 1. [Finding-Anagrams\(./Finding-Anagrams)
 ### Resources
 - [String Manipulation in Python](https://www.pythonforbeginners.com/basics/string-manipulation-in-python)
 - [Python Lists and List Manipulation](https://towardsdatascience.com/python-basics-6-lists-and-list-manipulation-a56be62b1f95)
 
-## Reading-Text-Files
+## 2. Reading-Text-Files
 ### Resources:
 
 - [How to Read a Text file In Python Effectively](https://www.pythontutorial.net/python-basics/python-read-text-file/)
 - [Python Functions](https://www.w3schools.com/python/python_functions.asp)
 
-## Classes-and-Objects
+## 3. Classes-and-Objects
 ### Resources:
 
 - [Python Classes and Objects - GeeksforGeeks](https://www.geeksforgeeks.org/python-classes-and-objects/)
 - [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
 
-## Django Getting Started
+## 4. Django Getting Started
 ### Resources:
 
 - [Get Started With Django Part 1](https://realpython.com/get-started-with-django-1/)
 
-## javascript-Introduction
+## 5. javascript-Introduction
 ### Resources:
 
 
-## chessboard-using-html-and-css
+## 6. chessboard-using-html-and-css
 ### Resources:
 
 
-## html-tables-and-lists
+## 7. html-tables-and-lists
 ### Resources:
 
 
-## portfolio
+## 8. portfolio
 ### Resources:
 
 
-## quiz-game
+## 9. quiz-game
 ### Resources:
 
 
-## tribute-page
+## 10. tribute-page
 ### Resources:
